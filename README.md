@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Semih Özkaplan</h1>
 <h3 align="center">A passionate game developer/software engineering student from Turkey</h3>
 
-- 🔭 I’m currently working on **Senior Project (Unity Project)**
+- 🔭 I’m currently working on **JSBSim Flight Simulator Project on Unreal Engine (using only cpp)**
 
 - 🌱 I’m currently learning **Unreal Engine / Unity Engine**
 
