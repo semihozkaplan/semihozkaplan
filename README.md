@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Semih Özkaplan</h1>
 <h3 align="center">A passionate game developer/software engineering student from Turkey</h3>
 
-- 🔭 I’m currently working on **JSBSim Flight Simulator Project on Unreal Engine (using only cpp) on GitLab**
+- 🔭 I’m currently working on **[JSBSim Flight Simulator Project on Unreal Engine (using only cpp) on GitLab](https://gitlab.com/semihozkaplann/flight_simulation_project_jsbsim)**
 
 - 🌱 I’m currently learning **Unreal Engine / Unity Engine**
 
