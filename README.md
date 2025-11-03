@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Semih Özkaplan</h1>
 <h3 align="center">A passionate game developer/software engineer from Turkey</h3>
 
-- 🔭 I’m currently working on **Unreal Engine Multiplayer Project on Unreal Engine using C++ - Private Project**
+- 🔭 I’m currently working on **Unreal Engine Multiplayer Plugin and Multiplayer Project on Unreal Engine using C++ - Private Project (Contact me for details)**
 
 - 🌱 I’m currently learning **Unreal Engine / Unity Engine**
 
