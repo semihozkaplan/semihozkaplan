@@ -2,14 +2,14 @@
 <h3 align="center">A passionate Game Developer and Software Engineer from Turkey</h3>
 
 <p align="left">
-I am a recent Software Engineering graduate (3.52 GPA) with a deep passion for building high-performance, scalable, and immersive experiences. My expertise lies at the intersection of game development and simulation, with a strong focus on **C++**, **C#**, **Unreal Engine**, and **Unity**. 
+I am a recent Software Engineering graduate (3.52 GPA) with a deep passion for building high-performance, scalable, and immersive experiences. My expertise lies at the intersection of game development and simulation, with a strong focus on C++, C#, Unreal Engine, and Unity. 
 <br /><br />
-My professional background includes building large-scale simulation infrastructures at **HAVELSAN**, where I focused on **systems architecture**, **performance optimization**, and core C++ development within Unreal Engine. I thrive on solving complex technical challenges, designing robust systems from the ground up, and pushing the boundaries of interactive technology.
+My professional background includes building large-scale simulation infrastructures at HAVELSAN, where I focused on systems architecture, performance optimization, and core C++ development within Unreal Engine. I thrive on solving complex technical challenges, designing robust systems from the ground up, and pushing the boundaries of interactive technology.
 </p>
 
 ---
 
-- 🔭 I’m currently working on **[Multiplayer Game Plugin and Multiplayer Project on Unreal Engine using C++ - Private Project](https://gitlab.com/semihozkaplann/unrealengine_multiplayer_project)**
+- 🔭 I’m currently working on **[Multiplayer Game Plugin and Multiplayer Project on Unreal Engine using C++ - Online Subsystem infrustructure](https://gitlab.com/semihozkaplann/unrealengine_multiplayer_project)**
 
 - 🌱 I’m currently learning **Advanced C++ in Unreal Engine / Systems Design in Unity**
 
