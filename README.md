@@ -1,15 +1,23 @@
 <h1 align="center">Hi 👋, I'm Semih Özkaplan</h1>
-<h3 align="center">A passionate game developer/software engineer from Turkey</h3>
+<h3 align="center">A passionate Game Developer and Software Engineer from Turkey</h3>
 
-- 🔭 I’m currently working on **Unreal Engine Multiplayer Plugin and Multiplayer Project on Unreal Engine using C++ - Private Project (Contact me for details)**
+<p align="left">
+I am a recent Software Engineering graduate (3.52 GPA) with a deep passion for building high-performance, scalable, and immersive experiences. My expertise lies at the intersection of game development and simulation, with a strong focus on **C++**, **C#**, **Unreal Engine**, and **Unity**. 
+<br /><br />
+My professional background includes building large-scale simulation infrastructures at **HAVELSAN**, where I focused on **systems architecture**, **performance optimization**, and core C++ development within Unreal Engine. I thrive on solving complex technical challenges, designing robust systems from the ground up, and pushing the boundaries of interactive technology.
+</p>
 
-- 🌱 I’m currently learning **Unreal Engine / Unity Engine**
+---
+
+- 🔭 I’m currently working on **[Multiplayer Game Plugin and Multiplayer Project on Unreal Engine using C++ - Private Project](https://gitlab.com/semihozkaplann/unrealengine_multiplayer_project)**
+
+- 🌱 I’m currently learning **Advanced C++ in Unreal Engine / Systems Design in Unity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/semihozkaplan](https://github.com/semihozkaplan)
 
 - 📝 Also my big size projects are available at [https://gitlab.com/semihozkaplann](https://gitlab.com/semihozkaplann)
 
-- 💬 Ask me about **Unity Engine, Unreal Engine**
+- 💬 Ask me about **C++, C#, Unity Engine, Unreal Engine, System Architecture**
 
 - 📫 How to reach me **semihozkaplanofficial@gmail.com**
 
