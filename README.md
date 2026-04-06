@@ -9,15 +9,13 @@ My professional background includes building large-scale simulation infrastructu
 
 ---
 
-- 🔭 I’m currently working on **[Multiplayer Game Plugin and Multiplayer Project on Unreal Engine using C++ - Online Subsystem infrustructure](https://gitlab.com/semihozkaplann/unrealengine_multiplayer_project)**
-
-- 🌱 I’m currently learning **Advanced C++ in Unreal Engine / Systems Design in Unity**
+- 🔭 I’m currently working on **[Fruit Match - Hybrit-Casual / Puzzle Game - Unity ](https://github.com/semihozkaplan/Fruit-Match)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/semihozkaplan](https://github.com/semihozkaplan)
 
 - 📝 Also my big size projects are available at [https://gitlab.com/semihozkaplann](https://gitlab.com/semihozkaplann)
 
-- 💬 Ask me about **C++, C#, Unity Engine, Unreal Engine, System Architecture**
+- 💬 Ask me about **C++, C#, Unity Engine, Unreal Engine, Software Design**
 
 - 📫 How to reach me **semihozkaplanofficial@gmail.com**
 
