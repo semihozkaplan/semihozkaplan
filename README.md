@@ -17,13 +17,6 @@ My professional background includes commiting <b>large-scale simulation infrastr
 
 - 📝 Also my big size projects are available at [https://gitlab.com/semihozkaplann](https://gitlab.com/semihozkaplann)
 
-- 📫 How to reach me **semihozkaplanofficial@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/semihozkaplan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="semihozkaplan" height="30" width="40" /></a>
-</p>
-
 ---
 
 ### 🛠 Languages and Tools
