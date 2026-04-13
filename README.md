@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Semih Özkaplan</h1>
-<h3 align="center">A passionate Game Developer and Software Engineer from Turkey</h3>
+<h3 align="center">A passionate Software Engineer from Turkey</h3>
 
 <p align="left">
 I am a recent Software Engineering graduate (3.52 GPA - High Honour Student) with a deep passion for building high-performance, scalable, and immersive experiences. My expertise lies at the intersection of game development and simulation, with a strong focus on C++, C#, Unreal Engine, and Unity. 
