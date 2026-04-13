@@ -4,7 +4,7 @@
 <p align="left">
 I am a <b>Software Engineering graduate (3.52 GPA - High Honour Student)</b> with a deep passion for building high-performance, scalable systems. My expertise lies at the intersection of game development and simulation, with a strong focus on C++, C#, Unreal Engine, and Unity. 
 <br /><br />
-My professional background includes commiting<b>large-scale simulation infrastructures at HAVELSAN</b>, where I focused on systems architecture and core C++ development. Currently, I am expanding my horizons into <b>Data Engineering and Big Data</b>
+My professional background includes commiting <b>large-scale simulation infrastructures at HAVELSAN</b>, where I focused on systems architecture and core C++ development. Currently, I am expanding my horizons into <b>Data Engineering and Big Data</b>
 </p>
 
 ---
