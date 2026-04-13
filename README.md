@@ -42,14 +42,6 @@ My professional background includes commiting<b>large-scale simulation infrastru
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=semihozkaplan&show_icons=true&theme=radical&rank_icon=github" alt="Semih's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=semihozkaplan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" height="170" />
-</p>
-
----
-
 ### 🤝 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/semihozkaplan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="semihozkaplan" height="30" width="40" /></a>
