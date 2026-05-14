@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Semih Özkaplan</h1>
-<h3 align="center">Software Engineer | Game Dev & Simulation Specialist | Data Engineering Aspirant</h3>
+<h3 align="center">Software Engineer | Game Dev & Simulation Specialist</h3>
 
 <p align="left">
 I am a <b>Software Engineering graduate (3.52 GPA - High Honour Student)</b> with a deep passion for building high-performance, scalable systems. My expertise lies at the intersection of game development and simulation, with a strong focus on C++, C#, Unreal Engine, and Unity. 
@@ -10,7 +10,7 @@ My professional background includes commiting <b>large-scale simulation infrastr
 ---
 
 - 🔭 I’m currently working on **Data Engineering - Big Data Processes / [Fruit Match - Hybrit-Casual / Puzzle Game - Unity ](https://github.com/semihozkaplan/Fruit-Match)**
-- 📊 **Learning:** Data Engineering Pipelines, SQL Design (MySQL), and Big Data Processing (Spark/Python).
+- 📊 **Learning:** Game Development | Simulation Techs.
 - 👨‍💻 All of my projects are available at [https://github.com/semihozkaplan](https://github.com/semihozkaplan)
 - 📝 Also my big size projects are available at [https://gitlab.com/semihozkaplann](https://gitlab.com/semihozkaplann)
 
