@@ -9,7 +9,7 @@ My professional background includes commiting <b>large-scale simulation infrastr
 
 ---
 
-- 🔭 I’m currently working on **Data Engineering - Big Data Processes / [Fruit Match - Hybrit-Casual / Puzzle Game - Unity ](https://github.com/semihozkaplan/Fruit-Match)**
+- 🔭 I’m currently working on **Game Development / [Fruit Match - Hybrit-Casual / Puzzle Game - Unity ](https://github.com/semihozkaplan/Fruit-Match)**
 - 📊 **Learning:** Game Development | Simulation Techs.
 - 👨‍💻 All of my projects are available at [https://github.com/semihozkaplan](https://github.com/semihozkaplan)
 - 📝 Also my big size projects are available at [https://gitlab.com/semihozkaplann](https://gitlab.com/semihozkaplann)
